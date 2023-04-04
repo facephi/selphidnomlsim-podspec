@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
     spec.name         = "FPhiSelphIDWidgetiOSLightSim"
-    spec.version      = "$VERSION_RELEASE"
+    spec.version      = "1.18.1"
     spec.summary      = "A short description of FPhiSelphIDWidgetiOSLightSim."
   
     spec.summary      = "Component for OCR and liveness test"
